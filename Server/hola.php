@@ -8,9 +8,9 @@
     <title>Git</title>
 </head>
 <body>
-
+/*author JPM*/
 <?php
-echo "<h1>Hello Ramis</1>";
+echo "<h1>Hello Idea!</1>";
 ?>
 </body>
 </html>
